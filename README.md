@@ -72,9 +72,8 @@ python eldeeb_subseeker.py -d example.com -t 100 -o results.txt
 ---
 
 ## 📸 Screenshots | صور الأداة
-*(Upload your screenshots to your repo and update the paths below | أضف صور الأداة هنا بعد رفعها على جيت هب)*
 
-![GUI Screenshot](https://via.placeholder.com/800x450.png?text=Eldeeb+SubSeeker+GUI)
+![GUI Screenshot](https://raw.githubusercontent.com/abdelmoneimbelal/Eldeeb-sub-seeker/refs/heads/master/image.png)
 
 ---
 
